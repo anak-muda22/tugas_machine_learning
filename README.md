@@ -2,7 +2,7 @@
 
 **Nama:** Muhamad Fatir  
 **NIM:** 241011402714  
-**Kelas:** Reg B
+**Kelas:** 05 TPLM 005 / Reg B
 
 ## Deskripsi
 Tugas menerapkan Linear Regression untuk memperkirakan penjualan dari biaya iklan dan Logistic Regression untuk klasifikasi email spam. Notebook mencakup visualisasi, pembagian data, evaluasi, eksperimen learning rate dan threshold, jawaban konsep, prediksi contoh, serta perbandingan bonus dengan scikit-learn.
